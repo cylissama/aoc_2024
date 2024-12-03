@@ -1,3 +1,3 @@
-# Advent of Code 2024
+# Advent of Code 2024 🧑‍💻
 
-### Personal repo for my solutions
+### personal repo for my solutions
